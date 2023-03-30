@@ -6,7 +6,7 @@
 
 👨‍👩‍👧‍👦  5조 : FE [양인서](https://github.com/1nxeo) [박지혜](https://github.com/wisdom1104) , BE [장진혁](https://github.com/jangjh45) [김건율](https://github.com/ChoonB) [박문주](https://github.com/parkmj4312)
 
-# [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://youtu.be/4bIADllM0B0)](https://youtu.be/4bIADllM0B0)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://1nxeo.notion.site/1nxeo/5-f98df340feb84a709bb63b666bd85a26)](https://1nxeo.notion.site/1nxeo/5-f98df340feb84a709bb63b666bd85a26)
+# [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-round&logo=youtube&link=https://www.youtube.com/watch?v=F8oTl1pr3Sw)](https://www.youtube.com/watch?v=F8oTl1pr3Sw)   [![Notion Badge](https://img.shields.io/badge/Notion-000000.svg?&style=flat-round&logo=notion&link=https://1nxeo.notion.site/1nxeo/5-f98df340feb84a709bb63b666bd85a26)](https://1nxeo.notion.site/1nxeo/5-f98df340feb84a709bb63b666bd85a26)
 
 ## [💸 5조 번개장터](http://clone-thunder-market.s3-website.ap-northeast-2.amazonaws.com/)
 
