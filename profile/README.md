@@ -62,7 +62,7 @@
    * 조회한 상품의 카테고리와 동일한 상품 6개를 연관상품으로 조회합니다.
 
 
-## 🏀 [Trouble Shooting](https://www.notion.so/5-SA-f4ebf090ac43441f88ff063a6ee7cd78)
+## 🏀 [Trouble Shooting](https://1nxeo.notion.site/1nxeo/5-f98df340feb84a709bb63b666bd85a26)
 
    Back-End
    1. 
